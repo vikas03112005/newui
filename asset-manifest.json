@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/vikas03112005/newui.git/static/css/main.18094ea0.css",
+    "main.js": "/vikas03112005/newui.git/static/js/main.1860e141.js",
+    "static/js/453.63c4db86.chunk.js": "/vikas03112005/newui.git/static/js/453.63c4db86.chunk.js",
+    "static/media/bootstrap-icons.woff?": "/vikas03112005/newui.git/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
+    "static/media/bootstrap-icons.woff2?": "/vikas03112005/newui.git/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
+    "index.html": "/vikas03112005/newui.git/index.html",
+    "main.18094ea0.css.map": "/vikas03112005/newui.git/static/css/main.18094ea0.css.map",
+    "main.1860e141.js.map": "/vikas03112005/newui.git/static/js/main.1860e141.js.map",
+    "453.63c4db86.chunk.js.map": "/vikas03112005/newui.git/static/js/453.63c4db86.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.18094ea0.css",
+    "static/js/main.1860e141.js"
+  ]
+}
